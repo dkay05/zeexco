@@ -1,9 +1,8 @@
 import { motion } from 'framer-motion';
-import { Heart, UserCheck, Wallet, TrendingUp } from 'lucide-react';
+import { UserCheck, Wallet, TrendingUp, Heart } from 'lucide-react';
 import { SectionTag } from '@/components/shared/SectionTag';
 import { GradientText } from '@/components/shared/GradientText';
 import { Button } from '@/components/ui/button';
-import { cn } from '@/lib/utils';
 
 const containerVariants = {
   hidden: { opacity: 0 },

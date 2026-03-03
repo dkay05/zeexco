@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Check, TrendingUp, BarChart3, Coins, Building2, Bitcoin } from 'lucide-react';
+import { Check, TrendingUp, BarChart3, Coins, Bitcoin } from 'lucide-react';
 import { SectionTag } from '@/components/shared/SectionTag';
 import { GradientText } from '@/components/shared/GradientText';
 import { cn } from '@/lib/utils';
